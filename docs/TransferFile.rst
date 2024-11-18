@@ -13,8 +13,8 @@ TransferFile小工具可以非常方便的将项目所需文件导入PLCnext控�
 
 2、将TransferFile_WS压缩包进行解压，解压后文件夹内应包含如下文件：
 
-.. image:: ../source/images/TransferFile.png
+.. image:: ../docs/images/TransferFile.png
 
 3、在该目录下双击运行TransferFile.exe软件，按照提示输入控制器用户名和密码，等待文件复制完成。
 
-.. image:: ../source/images/exe.png
+.. image:: ../docs/images/exe.png

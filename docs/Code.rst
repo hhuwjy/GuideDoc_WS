@@ -85,7 +85,7 @@
      - NTC
    * - 电锅炉
      - 0014
-     - EectricBoiler
+     - ElectricBoiler
    * - 斯宝亚创热泵
      - 0015
      - SBYC_HeatPump
